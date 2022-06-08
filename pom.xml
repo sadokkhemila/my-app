@@ -7,6 +7,7 @@
 	<version>0.0.7-SNAPSHOT</version>
 	<name>my-app</name>
 	<!-- demo in github -->
+	<!-- demo in github -->
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
